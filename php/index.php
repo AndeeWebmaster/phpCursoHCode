@@ -1,5 +1,3 @@
 <?php
-
-echo "<strong>Hello World!</strong>";
-
+echo "<strong>Estou no Github!</strong>";
 ?>
